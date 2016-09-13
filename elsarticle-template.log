@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.4)  13 SEP 2016 17:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.4)  13 SEP 2016 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -274,10 +274,10 @@ Package rerunfilecheck Info: File `elsarticle-template.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 5034 strings out of 494985
- 73515 string characters out of 6180357
+ 5036 strings out of 494985
+ 73547 string characters out of 6180357
  152245 words of memory out of 5000000
- 8216 multiletter control sequences out of 15000+600000
+ 8218 multiletter control sequences out of 15000+600000
  9417 words of font info for 33 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  30i,7n,30p,436b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -296,7 +296,7 @@ sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on elsarticle-template.pdf (3 pages, 170120 bytes).
+Output written on elsarticle-template.pdf (3 pages, 170188 bytes).
 PDF statistics:
  125 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams
